@@ -1,0 +1,10 @@
+aaa 9200 1/29
+Charm 0
+Intelligence 270
+Martial-art 5
+Temperament 0
+Sense 10
+Virtue 0
+Rebellion 0
+Magic 135
+#

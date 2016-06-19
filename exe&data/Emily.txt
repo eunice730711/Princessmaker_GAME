@@ -1,0 +1,10 @@
+Emily 700 1/5
+Charm 20
+Intelligence 10
+Martial-art 0
+Temperament 20
+Sense 0
+Virtue 15
+Rebellion 15
+Magic 5
+#
