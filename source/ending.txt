@@ -1,0 +1,12 @@
+Queen (Intelligence > 150) (Temperament > 150) (Charm > 150) (Sense > 50) (Magic > 50) (Virtue > 25)
+Ministor (Intelligence >200) (Charm > 100) (Intelligence > Magic)
+Magician (Magic >150) (Magic > Charm) (Magic >Temperament) (Magic > Intelligence) (Magic > Martial-art) 
+Nun (Virtue >150) (Virtue > Charm) (Virtue > Temperament) (Virtue > Intelligence)
+Warrior (Martial-art > 250)
+Official (Intelligence >150) (Rebellion < 50)
+Artist (Temperament > 150) (Sense > 50)
+Singer (Charm > 200) (Charm > Magic)
+Swindler (Rebellion > 150) (Intelligence > 100) 
+Gangster (Rebellion > 200) (Virtue < 50)
+
+

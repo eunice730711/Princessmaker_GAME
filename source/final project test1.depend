@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1371864440 source:c:\users\emily\desktop\40147030s\source\control.cpp
+	<allegro.h>
+	"picture.h"
+	"control.h"
+	"data.h"
+	<stdio.h>
+	<time.h>
+
+1371865414 c:\users\emily\desktop\40147030s\source\picture.h
+
+1371656953 c:\users\emily\desktop\40147030s\source\control.h
+	"data.h"
+
+1371865124 c:\users\emily\desktop\40147030s\source\data.h
+	"player.h"
+
+1370676342 c:\users\emily\desktop\40147030s\source\player.h
+
+1371865589 source:c:\users\emily\desktop\40147030s\source\data.cpp
+	<allegro.h>
+	<stdio.h>
+	<string.h>
+	"data.h"
+	"picture.h"
+	<conio.h>
+
+1371865753 source:c:\users\emily\desktop\40147030s\source\main.cpp
+	<allegro.h>
+	<stdio.h>
+	"music.h"
+	"control.h"
+	"data.h"
+	"picture.h"
+	"player.h"
+
+1371863042 c:\users\emily\desktop\40147030s\source\music.h
+
+1371863042 source:c:\users\emily\desktop\40147030s\source\music.cpp
+	<allegro.h>
+
+1371865589 source:c:\users\emily\desktop\40147030s\source\picture.cpp
+	<allegro.h>
+	"picture.h"
+
